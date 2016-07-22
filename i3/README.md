@@ -1,1 +1,1 @@
-# i3lock configuration files
+# fancy i3lock script
