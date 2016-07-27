@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Cleanup any bad state we left behind if the user exited while flash was
 # running
